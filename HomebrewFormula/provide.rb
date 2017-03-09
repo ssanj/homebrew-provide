@@ -1,5 +1,5 @@
 class Provide < Formula
-  desc "???"
+  desc "Serve http content quickly"
   homepage "https://github.com/ssanj/provide"
   version "0.0.1"
   url "https://github.com/ssanj/provide/releases/download/v#{version}/dabble", :using => :nounzip
