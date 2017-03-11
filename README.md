@@ -10,3 +10,17 @@ Add this tap to Homebrew with:
 Install the latest Provide release with:
 
     brew install provide
+
+Verify the installation with:
+
+    provide -v
+
+which should print out:
+
+```
+ __   __   __          __   ___
+|__) |__) /  \ \  / | |  \ |__
+|    |  \ \__/  \/  | |__/ |___
+
+Provide version: 0.0.1
+```
