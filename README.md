@@ -3,18 +3,10 @@ This a [brew](https://github.com/mxcl/homebrew) tap containing the formula for i
 
 ## Usage
 
-First, add this tap to your Brew.
+Add this tap to Homebrew with:
 
     brew tap ssanj/homebrew-provide
 
-Now you will be able to install the latest provide release:
+Install the latest Provide release with:
 
     brew install provide
-
-or the latest HEAD using:
-
-    brew install provide --HEAD
-
-or, if you want more information about the install you can use:
-
-    brew install provide --HEAD --debug --verbose
